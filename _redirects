@@ -4,6 +4,9 @@
 # https://arp242.netlify.com/* https://www.arp242.net/:splat 301!
 # https://arp242.net/*         https://www.arp242.net/:splat 301!
 
+# Support American spelling, too.
+/color-design.html /colour-design.html 301
+
 # Redirect old /weblog/ paths.
 /weblog/* /:splat 301
 
